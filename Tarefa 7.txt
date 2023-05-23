@@ -1,0 +1,23 @@
+Para o conjunto de dados sobre vinhos, disponibilizado na Biblioteca da plataforma (nome do arquivo: ‘vinhos.csv’), 
+faça um Notebook contendo os procedimentos listados abaixo. Entregue o notebook, extensão ‘.ipynb’, 
+como arquivo desta atividade.
+
+O Notebook deve conter os seguintes procedimentos sobre a base:
+
+1. Aquisição, leitura dos dados no arquivo .csv;
+
+2. Análise exploratória descrevendo as principais características da base (incluindo gráficos);
+
+3. Preparação dos dados para treinamento, os rótulos devem ser para uma tarefa de classificação;
+
+Escolha uma (ou as duas) atividades de classificação:
+
+a. Classificação de vinho do tipo ‘tinto’ ou ‘branco’,
+
+b. Classificação entre os vinhos com qualidade superior ou inferior a 6.
+
+4. Separação dos conjuntos de treino e teste;
+
+5. Modelagem, realizar o treinamento de modelos (sugestão: usar SVM);
+
+6. Avaliar o resultado dos modelos, identificando o modelo com melhor desempenho.
